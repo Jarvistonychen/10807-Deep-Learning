@@ -1,0 +1,2 @@
+singleLayer.m is the neural network with single hidden layer. Run this one will train a one-layer NN with different hyper-parameters.
+twoHidden.m is the neural network with two hidden layers. Run this one will train a two-layer NN with different hyper-parameters.
